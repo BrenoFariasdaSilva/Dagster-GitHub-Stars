@@ -4,15 +4,18 @@
 
 </div>
 
-<p align="center">
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-GitHub-Stars.svg" alt="wakatime" />
-</p>
-
 <div align="center">
+  
+---
   
 Simple project used in Dagster-Crash-Course.
 
+---
 </div>
+
+<p align="center">
+  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-GitHub-Stars.svg" alt="wakatime" />
+</p>
 
 <div align="center">
   
