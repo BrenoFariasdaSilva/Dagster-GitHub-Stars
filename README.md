@@ -1,6 +1,6 @@
 <div align="center">
   
-# [Dagster - Github Stars.](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars)
+# [Dagster - Github Stars.](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars) <img src="https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars/blob/main/assets/Dagster.svg"  width="10%" height="10%">
 
 </div>
 
