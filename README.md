@@ -13,11 +13,12 @@ Simple project used in Dagster-Crash-Course.
 ---
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-GitHub-Stars" alt="lastcommit" />
-  <img src="https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-GitHub-Stars" alt="license" />
-  <img src="https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-GitHub-Stars.svg" alt="wakatime" />
-</p>
+<div align="center">
+
+![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/BrenoFariasdaSilva/Dagster-GitHub-Stars)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/BrenoFariasdaSilva/Dagster-GitHub-Stars)
+![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-GitHub-Stars)
+![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-GitHub-Stars.svg)
 
 <div align="center">
   
