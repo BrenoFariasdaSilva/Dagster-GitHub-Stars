@@ -42,9 +42,8 @@ cd Dagster-GitHub-Stars
 
 # Installation:
 ```bash
-pip install dagster notebook
 pip install -e ".[dev]"
-pip install dagster dagit
+pip install dagster dagit notebook
 ```
 
 or 
