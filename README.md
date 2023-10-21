@@ -20,8 +20,38 @@ Simple project used in Dagster-Crash-Course.
 ![GitHub](https://img.shields.io/github/license/BrenoFariasdaSilva/Dagster-GitHub-Stars)
 ![wakatime](https://wakatime.com/badge/github/BrenoFariasdaSilva/Dagster-GitHub-Stars.svg)
 
+</div>
+
 <div align="center">
   
 ![RepoBeats Statistics](https://repobeats.axiom.co/api/embed/5956a85a1c6097c587eca24d81c2f2933008e01b.svg "Repobeats analytics image")
 
 </div>
+
+- [Dagster - Github Stars. ](#dagster---github-stars-)
+- [Clone the project:](#clone-the-project)
+- [Installation:](#installation)
+- [Execute:](#execute)
+
+# Clone the project:
+Simply download or clone this repository and open a terminal inside of the folder that is related to it. 
+```bash
+git clone https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars
+cd Dagster-GitHub-Stars
+```
+
+# Installation:
+```bash
+pip install dagster dagit
+```
+
+or 
+
+```bash
+make dependencies
+```
+
+# Execute:
+```bash
+make locally
+```
