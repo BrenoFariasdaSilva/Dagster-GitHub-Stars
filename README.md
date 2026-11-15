@@ -25,7 +25,6 @@ Simple project used in Dagster-Crash-Course.
 [![GitHub Stars](https://img.shields.io/github/stars/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars/stargazers)
 [![GitHub Contributors](https://img.shields.io/github/contributors/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars/graphs/contributors)
 [![GitHub Created At](https://img.shields.io/github/created-at/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars)
-[![GitHub Repository Size](https://img.shields.io/github/repo-size/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars)
 [![Open Issues](https://img.shields.io/github/issues/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars/issues)
 [![Closed Issues](https://img.shields.io/github/issues-closed/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars/issues?q=is%3Aissue+is%3Aclosed)
 [![Open Pull Requests](https://img.shields.io/github/issues-pr/BrenoFariasdaSilva/Dagster-GitHub-Stars)](https://github.com/BrenoFariasdaSilva/Dagster-GitHub-Stars/pulls)
